@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gary Fearn
-- 👀 I’m interested in developing applications for Contact Centre professionals to interat with Cisco UCCE/PCCE scripts.
+- 👀 I’m interested in developing applications for Contact Centre professionals to interact with Cisco UCCE/PCCE scripts.
 - 🌱 I’m currently learning more about Python
 - 📫 reach me on linkedIn
 
